@@ -7,11 +7,19 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies
 node_modules
+
+# Build output
 dist
 dist-ssr
+
+# Local environment files (keep private)
 *.local
 .env.local
+
+# DO NOT ignore production env (needed for CI/CD like PipeOps)
+# .env.production is safe to commit because it only contains public frontend keys
 
 # Editor directories and files
 .vscode/*
