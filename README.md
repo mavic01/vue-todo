@@ -69,7 +69,7 @@ npm run preview
 
 ## 📸 Preview
 
-[App Preview](https://ibb.co/jkXcdBMB)
+[App Preview](https://ibb.co/wZ0n2vJ4)
 
 ---
 
